@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Adyacente
+comment1.params=peso\ nodo
+comment1.target=Adyacente(int,\ int)
+numComments=2
