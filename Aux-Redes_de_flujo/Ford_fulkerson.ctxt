@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ford_fulkerson
+comment1.params=s\ t\ grafo
+comment1.target=Ford_fulkerson(int,\ int,\ ListaAdyacencia_Flujo)
+comment2.params=
+comment2.target=void\ ford_fulkerson()
+comment3.params=
+comment3.target=void\ dfs()
+numComments=4

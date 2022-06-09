@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ListaAdyacencia_Flujo
+comment1.params=n
+comment1.target=ListaAdyacencia_Flujo(int)
+comment2.params=
+comment2.target=int\ getNumVertices()
+comment3.params=origen\ destino\ capacidad
+comment3.target=void\ insertarArista(int,\ int,\ int)
+comment4.params=
+comment4.target=void\ dibujarGrafo()
+comment5.params=vertice
+comment5.target=java.util.ArrayList\ getAdyacentes(int)
+comment6.params=vertice\ v_adyacente
+comment6.target=Arista_Flujo\ getArista(int,\ int)
+comment7.params=vertice\ v_adyacente
+comment7.target=Arista_Flujo\ getArista_residual(int,\ int)
+comment8.params=
+comment8.target=java.util.ArrayList[]\ getGrafo()
+numComments=9

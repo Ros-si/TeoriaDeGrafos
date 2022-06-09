@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Arista_Flujo
+comment1.params=nodo\ capacidad
+comment1.target=Arista_Flujo(int,\ int)
+comment2.params=nodo\ capacidad\ flujo
+comment2.target=Arista_Flujo(int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getCapacidad()
+comment5.params=
+comment5.target=int\ getNodo()
+comment6.params=
+comment6.target=int\ getFlujo()
+comment7.params=capacidad
+comment7.target=void\ setCapacidad(int)
+comment8.params=flujo
+comment8.target=void\ setFlujo(int)
+numComments=9
