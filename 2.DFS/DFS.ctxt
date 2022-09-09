@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DFS
+comment1.params=grafo
+comment1.target=DFS(ListaAdyacencia)
+comment2.params=inicio
+comment2.target=void\ recorrer(int)
+comment3.params=origen
+comment3.target=void\ dfsRecursivo(int)
+numComments=4
