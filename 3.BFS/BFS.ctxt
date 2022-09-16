@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BFS
+comment1.params=lista
+comment1.target=BFS(ListaAdyacencia)
+comment2.params=nodoInicio
+comment2.target=void\ recorrer(int)
+comment3.params=nodo
+comment3.target=void\ getCamino(int)
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ListaAdyacencia
+comment0.text=\n\ Write\ a\ description\ of\ class\ ListaAdyacencia\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=nVertices\ dirigido
+comment1.target=ListaAdyacencia(int,\ boolean)
+comment2.params=origen\ destino
+comment2.target=void\ insertarArista(int,\ int)
+comment3.params=vertice
+comment3.target=java.util.ArrayList\ getAdyacentes(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ dibujarGrafo()
+numComments=6

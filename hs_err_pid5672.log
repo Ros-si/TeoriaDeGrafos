@@ -1,0 +1,23 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f96ef461f66, pid=5672, tid=5698
+#
+# JRE version: OpenJDK Runtime Environment AdoptOpenJDK (11.0.10+9) (build 11.0.10+9)
+# Java VM: OpenJDK 64-Bit Server VM AdoptOpenJDK (11.0.10+9, mixed mode, tiered, compressed oops, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [libc.so.6+0x3af66]
+#
+# No core dump will be written. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/AdoptOpenJDK/openjdk-support/issues
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Djdk.gtk.version=2 -Dawt.useSystemAAFontSettings=on -Xmx512M -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true bluej.Boot -javafxpath=/usr/share/bluej/javafx -javafxjars=/usr/share/bluej/javafx/lib/javafx.base.jar:/usr/share/bluej/javafx/lib/javafx.controls.jar:/usr/share/bluej/javafx/lib/javafx.fxml.jar:/usr/share/bluej/javafx/lib/javafx.graphics.jar:/usr/share/bluej/javafx/lib/javafx.media.jar:/usr/share/bluej/javafx/lib/javafx.properties.jar:/usr/share/bluej/javafx/lib/javafx.swing.jar:/usr/share/bluej/javafx/lib/javafx.web.jar /home/ros/progs/bluej/proyectos/aux_grafos_2_2022/TeoriaDeGrafos/3.BFS
+
+Host: 
