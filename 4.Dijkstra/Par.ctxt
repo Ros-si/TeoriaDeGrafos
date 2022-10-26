@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Par
+comment1.params=nodo\ dis
+comment1.target=Par(int,\ int)
+comment2.params=vecino
+comment2.target=int\ compareTo(Par)
+numComments=3
